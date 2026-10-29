@@ -2,5 +2,5 @@
   "name": "repo-prueba-icarus",
   "version": "1.0.0",
   "private": true,
-  "scripts": { "test": "node test.js" }
+  "scripts": { "test": "node test.js", "start": "node server.js" }
 }
